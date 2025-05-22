@@ -1,4 +1,5 @@
 Title:AI-Powered Smart Air Quality Monitoring & Prediction System
+
 Abstract:
 Air pollution is a critical concern in urban areas, significantly impacting public health and the
 environment. This project presents a smart air quality monitoring system that leverages
@@ -15,6 +16,7 @@ monitor but also to anticipate potential air quality issues, enabling early warn
 decision-making.The project demonstrates a cost-effective, scalable, and intelligent approach to
 urban air quality management, suitable for applications in smart cities, residential zones, and
 public institutions.
+
 1.Project Demonstration:
 Overview:
 An AI model is trained to predict the Air Quality Index (AQI) category based on sensor readings.
@@ -36,7 +38,8 @@ demonstrated as the system handles all the necessary data.
 Outcome:
 By the end of the demonstration, the system’s ability to handle real-world scenarios, ensure data
 security, and data visualization through IoT integration will be showcased.
-Project Documentation:
+
+2.Project Documentation:
 Comprehensive documentation for the AI-Powered smart air quality monitoring and prediction
 system is provided to detail every aspect of the project. This includes system architecture, AI
 model details, code explanations, and usage guidelines for both users and administrators.
@@ -54,6 +57,7 @@ security
 Outcome:
 All critical components of the system will be well-documented, providing a clear guide for future
 development, deployment, or system scaling.
+
 3. Feedback and Final Adjustments
 Overview:
 Feedback from the project demonstration will be collected from instructors, stakeholders, and a
@@ -69,6 +73,7 @@ functionality, usability, and scalability.
 Outcome:
 Final adjustments will optimize the system for a broader rollout, ensuring that it is fully ready for
 real-world deployment.
+
 4. Final Project Report Submission
 Overview:
 The final project report provides a comprehensive summary of all phases, key achievements,
